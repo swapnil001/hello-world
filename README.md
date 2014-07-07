@@ -1,4 +1,3 @@
-hello-world
-===========
-
-Hello Word
+def test():
+ 
+   print "Hello"
